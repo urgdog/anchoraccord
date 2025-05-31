@@ -9,5 +9,5 @@ title: test
 
 
 ### lorem ipsum
-- AML, BSA, OFAC control mapping
-- Audit readiness and examiner preparation
+- BSA/AML, Fraud, OFAC control mapping
+- Audit readiness and exam preparation
