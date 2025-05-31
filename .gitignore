@@ -1,0 +1,18 @@
+# Ignore generated site files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore dependency/vendor stuff
+vendor/
+.bundle/
+node_modules/
+
+# Ignore Ruby/Bundler system junk
+*.gem
+Gemfile.lock.bak
+
+# OS-specific junk
+.DS_Store
+Thumbs.db

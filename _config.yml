@@ -1,0 +1,7 @@
+title: Anchor Accord
+description: Infrastructure & Compliance Risk Assessment
+baseurl: "" # root
+url: "https://anchoraccord.com"
+markdown: kramdown
+theme: null
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
