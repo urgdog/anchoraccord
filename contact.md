@@ -3,6 +3,10 @@ layout: default
 title: Contact
 ---
 
-Email us at: **contact@anchoraccord.com**
+If it’s not broken or urgent, you probably don’t need us.  
+But if your system is groaning, your risk posture is unclear,
+or your team’s drowning in vendor promises:
 
-Or reach out through your existing networks - we’re probably already one introduction away.
+**Let’s talk.**
+
+📧 [contact@anchoraccord.com](mailto:contact@anchoraccord.com)
