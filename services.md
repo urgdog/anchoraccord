@@ -8,19 +8,19 @@ and time is short.
 
 ## Infrastructure Health Assessments
 - Root-cause analysis of failures across infrastructure, security,
-networking, and technical domains.
-- Risk mapping across provisioning, change, and recovery
-- Actionable remediation plan, delivered in plain English.
+networking, and system architecture.
+- Risk mapping across provisioning, change, and recovery.
+- Actionable remediation plans, delivered in plain English.
 
 ## Regulatory & Compliance Audits
-- AML/BSA/OFAC readiness evaluations
-- Governance documentation and gap assessments
-- Regulator-facing narrative preparation
+- AML/BSA/OFAC readiness evaluations.
+- Governance documentation and gap analysis.
+- Regulator-facing narrative preparation and remediation strategies.
 
 ## Cross-Cut Reviews
-- Joint infrastructure + compliance review for high-risk workflows
-- Infrastructure observability for compliance controls
-- Cost-saving recommendations aligned with security baselines
+- Joint infrastructure + compliance review for high-risk workflows.
+- Infrastructure observability for compliance controls.
+- Cost-saving recommendations aligned with security baselines.
 
 ---
 

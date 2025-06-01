@@ -17,10 +17,10 @@ We're looking to change that.
 **Gregory C. Ross**  
 Infrastructure and networking specialist with two decades 
 of experience. Built and led critical systems teams at 
-nation-wide ISPs (Internet Service Providers) supporting real-time network operations across hundreds of thousands of devices and millions of subscribers.
+national ISPs (Internet Service Providers) supporting real-time network operations across hundreds of thousands of devices and millions of subscribers.
 
-Infrastructure strategist, automation obsessive, deeply
-allergic to performative ops.  
+Infrastructure strategist. Automation obsessive.
+Deeply allergic to performative ops.
 
 Thinks in wires, writes in Python, and prefers systems
 that explain themselves.
@@ -28,7 +28,7 @@ that explain themselves.
 ---
 
 **Nicole J. Gray**  
-CAMS-certified compliance executive with two decade of
+CAMS-certified compliance executive with 20+ years of
 leadership in AML, BSA, OFAC, and FCC controls.  
 Specializes in compliance remediation, regulatory posture,
 policy alignment, and risk reduction.  
