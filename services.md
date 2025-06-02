@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Services
+show_cta: True
 ---
-
+# Services
 We offer targeted, high-impact engagements where risk is rising
 and time is short.
 
@@ -23,3 +24,9 @@ networking, and system architecture.
 - Cost-saving recommendations aligned with security baselines.
 
 ---
+
+# Recent Case Studies
+
+- Biotech Scale Readiness: Diagnosing regulatory exposure and aligning
+infrastructure for auditability. [Read more →](cases/biotech_scale_readiness)
+

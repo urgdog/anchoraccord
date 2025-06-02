@@ -1,59 +1,214 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-size: 18px;
   line-height: 1.6;
   color: #222;
-  background-color: #f8f8f8;
   margin: 0;
   padding: 0;
   
 }
 
-
-
-.topnav {
-  background-color: #2e3a59;
-  padding: 1rem 2rem;
-  color: #fff;
+.page-wrapper {
+  background: linear-gradient(to bottom, #f2f4f8, #ffffff);
+  min-height: 100vh;
+  margin: 0;
+  
+  padding: 0;
 }
 
-.site-branding {
-  display: flex;
-  align-items: center;
-}
-
-.logo-icon {
-  color: #ffffff;  
-  width: 32px;
-  height: 32px;
-  margin-right: 0.75rem;
-}
-
-.container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.site-title a {
-  color: #fff;
-  text-decoration: none;
-  font-weight: 700;
-}
-
-.site-nav a {
-  color: #d0e6f0;
-  margin-left: 1.5rem;
-  text-decoration: none;
-}
-
-.site-nav a:hover {
-  text-decoration: underline;
+main {
+  margin: 0;
+  padding: 0;
 }
 
 .content {
   max-width: 800px;
   margin: 2rem auto;
-  padding: 0 1rem;
+    padding: 1rem 1rem 0 1rem; /* Top padding breaks margin collapse */
+     margin-bottom: 0;
+    margin-top: 0;
 }
+
+
+.topnav {
+  
+  padding: 1rem 2rem;
+  color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   margin-bottom: 0;
+    margin-top: 0;
+     
+     
+     
+  backdrop-filter: blur(4px); 
+}
+
+.topnav::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(46, 58, 89, 0.95); /* subtle transparency */
+  background: url('/assets/img/lake-bg.jpg') center 56% / cover no-repeat;
+  opacity: 0.3;
+  backdrop-filter: blur(4px);
+  z-index: -1;
+}
+
+
+.footer-with-image {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  background-color: rgba(255,255,255,0.8); /* optional light backing */
+  backdrop-filter: blur(2px);
+  position: relative;
+  z-index: 1;
+}
+.footer-with-image::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: url('/assets/img/lake-bg.jpg') center center / cover no-repeat;
+  opacity: 0.1;
+  z-index: 0;
+}
+
+.footer-with-image p {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+  background-color: rgba(255,255,255,0.8); /* optional light backing */
+  backdrop-filter: blur(2px);
+  position: relative;
+  z-index: 1;
+}
+.cta {
+  position: relative;
+  text-align: center;
+  padding: 2rem 1.5rem;
+  margin: 3rem auto;
+  max-width: 600px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background: rgba(255, 255, 255, 0.85); /* translucent white for text clarity */
+  backdrop-filter: blur(4px);
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  overflow: hidden; /* clips pseudo-element */
+}
+
+.cta::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+transition: transform 0.4s ease;
+  background: url('/assets/img/lake-bg.jpg') center center / cover no-repeat;
+  opacity: 0.2;
+  z-index: 0;
+}
+
+.cta p, .cta a {
+  position: relative;
+  z-index: 1;
+}
+
+.cta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.12);
+}
+.cta a:hover {
+  text-decoration: underline;
+}
+
+.cta:hover::before {
+  transform: scale(1.02);
+}
+.site-branding {
+  display: flex;
+  align-items: center;
+  
+   margin-bottom: 0;
+    margin-top: 0;
+}
+
+.logo-icon {
+  color: #222222;  
+  width: 32px;
+  height: 32px;
+  margin-right: 0.75rem;
+ 
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+   margin-bottom: 0;
+    margin-top: 0;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-title a {
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 2rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.site-nav a {
+  color: rgb(1, 72, 119);
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-weight: 800;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+/* Paragraph spacing */
+p {
+  margin-bottom: 1.25rem;
+}
+
+/* Paragraph spacing */
+p {
+  margin-bottom: 1.25rem;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+/* Unordered and ordered lists */
+ul, ol {
+  margin-bottom: 1.25rem;
+  padding-left: 2rem; /* standard readable indent */
+}
+
+li {
+  margin-bottom: 0.5rem; /* space between items */
+}
+
+/* Optional: tighter list spacing for nested cases */
+ul ul,
+ol ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Unordered and ordered lists */
+ul, ol {
+  margin-bottom: 1.25rem;
+  padding-left: 2rem; /* standard readable indent */
+}
+

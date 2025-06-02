@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 ---
+# Contact
 
 If it’s not broken or urgent, you probably don’t need us.
 

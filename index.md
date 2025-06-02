@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Home
+show_cta: True
 ---
 
-# Anchor Accord
-
-**Infrastructure & Compliance. Repaired. Rebuilt. Re-aligned.**
+## **Infrastructure & Compliance.**
+## **Repaired. Rebuilt. Realigned.**
 
 Anchor Accord is a solutions advisory group for the
 moments when the seams start to tear:  

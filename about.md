@@ -1,40 +1,46 @@
 ---
 layout: default
 title: About
+show_cta: True
 ---
+# About
+Anchor Accord is what happens when two senior operators stop waiting for the big firms to get it right.
 
-We’re not a consulting shop with templates and handoffs.
+We're two deeply seasoned operators—one technical, one regulatory—who’ve lived
+the fallout of bad systems and worse advice.
 
-We’re two senior operators who’ve seen what happens when
-infrastructure and compliance are treated like cost
-centers—until it’s too late, and expensive consultants
-deliver ineffective solutions too slowly, at exorbitant cost.
+We’ve led incident calls at 2am.  
+We’ve sat across from federal regulators.  
+We’ve inherited chaos, fixed it, and written the playbook so it doesn’t happen again.
 
-We're looking to change that.
+We don’t sell optimism or headcount.  
+We bring technical clarity and regulatory rigor—before things go sideways.
 
 ---
 
 **Gregory C. Ross**  
 Infrastructure and networking specialist with two decades 
-of experience. Built and led critical systems teams at 
-national ISPs (Internet Service Providers) supporting real-time network operations across hundreds of thousands of devices and millions of subscribers.
+of experience building and leading critical systems teams at 
+national ISPs (Internet Service Providers). Gregory has developed
+strategic governance and policy supporting real-time network operations
+across hundreds of thousands of devices and millions of subscribers.
 
 Infrastructure strategist. Automation obsessive.
-Deeply allergic to performative ops.
+Deeply allergic to performative operations.
 
-Thinks in wires, writes in Python, and prefers systems
-that explain themselves.
+Uses automation, networking, and systems to grease the wheels of organizations.
 
 ---
 
 **Nicole J. Gray**  
-CAMS-certified compliance executive with 20+ years of
-leadership in AML, BSA, OFAC, and FCC controls.  
-Specializes in compliance remediation, regulatory posture,
-policy alignment, and risk reduction.  
+CAMS-certified compliance executive with 20+ years in AML, BSA, OFAC, and FCC
+oversight. Nicole has led remediation efforts, closed regulatory gaps, and
+redesigned governance across banks and fintechs.
 
-Has outperformed consultants from the big firms—and cleaned
-up after them, too.
+Nicole outperforms consultants from the big firms - and cleans up after them, too.
+
+Uses compliance to reduce risk, tighten posture, and give leadership the tools
+needed to keep the ship stable.
 
 ---
 
