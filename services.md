@@ -23,13 +23,3 @@ networking, and system architecture.
 - Cost-saving recommendations aligned with security baselines.
 
 ---
-
-## Case Studies
-
-- [Fixing an Abandoned Network Stack](./case-network-demo.md)  
-  _How a misconfigured backbone quietly blocked product development for years_  
-  **[Download PDF](/assets/pdfs/haunted-network.pdf)**
-
-- [Realigning an AML Program](./case-fcc-alignment.md)  
-  _How outdated playbooks and unclear ownership created audit chaos_  
-  **[Download PDF](/assets/pdfs/fcc-alignment.pdf)**
