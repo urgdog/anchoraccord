@@ -4,13 +4,13 @@ title: Contact
 ---
 # Contact
 
-If it’s not broken or urgent, you probably don’t need us.
-
 - Just got fined?  
 - Regulators knocking?  
 - Consultants overcharging and under-delivering?  
 - Staff training overdue?  
 - Systems showing cracks no one wants to own?
+
+If it’s not broken or urgent, you probably don’t need us.
 
 But if your system is groaning, your risk posture is unclear,
 or your team’s drowning in vendor promises:
