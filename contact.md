@@ -19,4 +19,4 @@ or your team’s drowning in vendor promises:
 
 We bring clarity when the pressure’s on—and results without the theater.
 
-📧 [contact@anchoraccord.com](mailto:contact@anchoraccord.com)
+📧 <a href="mailto:contact@anchoraccord.com">contact&#64;anchoraccord&#46;com</a>
