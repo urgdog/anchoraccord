@@ -26,30 +26,31 @@ tags:
   - automation consultant
   - technology consultant
   - technical strategy
+  - people keep quitting
+  - lost my unicorn employee
   - why is my business breaking
   - post-Deloitte repair jobs
   - actual humans not a vendor demo
 ---
 
 ## **Infrastructure & Compliance.**
-## **Repaired. Rebuilt. Realigned.**
+### ***Strategic systems and regulatory clarity.***
 
-Anchor Accord is a solutions advisory group for the
-moments when the seams start to tear:  
-- A system you’ve relied on for years falls over.
+We help organizations stabilize the technical and regulatory foundations they
+rely on but rarely inspect. From system design to compliance architecture,
+we reduce risk, improve resilience, and often cut cost in the process.
+Whether you're scaling fast or correcting inherited complexity, we build
+what's missing and fortify what matters.
+
+**Anchor Accord is a strategic advisory partner for the
+moments when the seams start to tear:**
 - Engineering & Compliance attrition is looming.  
-- BSA/AML/OFAC risk is mounting with no decisive owner.
-- Your systems are increasing cost instead of delivering
-alignment.
-- You’re burning hours stitching workflows together with spreadsheets.
+- BSA/AML/OFAC risk is mounting with no decisive owner.  
+- Systems are raising costs instead of reinforcing alignment.
+- You’re burning hours stitching workflows together with spreadsheets.  
 
 We don’t bring a 50-person team.  
 We bring focus, field experience, and clarity.  
 
-If your systems are misaligned - compliance, compute, or human:
+*Repaired. Rebuilt. Realigned.*
 
-**We realign them. Without the bloat.**
-
----
-
-**Let's talk.** [contact@anchoraccord.com](mailto:contact@anchoraccord.com)
