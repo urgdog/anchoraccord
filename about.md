@@ -3,51 +3,62 @@ layout: default
 title: About
 show_cta: True
 ---
+
 # About
-Anchor Accord is what happens when two senior operators stop waiting for the big firms to get it right.
 
-We're two deeply seasoned operators—one technical, one regulatory—who’ve lived
-the fallout of bad systems and worse advice.
+Anchor Accord is what happens when two senior operators stop waiting for 
+the big firms to get it right.
 
-We’ve led incident calls at 2am.  
-We’ve sat across from federal regulators.  
-We’ve inherited chaos, fixed it, and written the playbook so it doesn’t happen again.
+We’ve lived the fallout of broken systems and one-size-fits-all advice - at 2am,
+in front of regulators, and inside brittle infrastructure no one wanted to
+take ownership of. We’ve stabilized chaos, rebuilt what others abandoned,
+and written the frameworks that helped teams stay calm, resilient, and effective.
 
-We don’t sell optimism or headcount.  
-We bring technical clarity and regulatory rigor—before things go sideways.
+We’re not selling triage headcount.  
+We’re not selling slide decks.  
+
+We’re here to bring clarity across technical and regulatory domains -
+before things go sideways, and especially if they already have.
 
 ---
 
-
 **Gregory C. Ross**  
+*Principal, Infrastructure & Systems Strategy*  
+*Technical architecture, automation, risk reduction*
 
 <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem;">
-  <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.2); filter: grayscale(20%) contrast(1.05);" />
-  
+  <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
 </figure>
-Infrastructure and networking specialist with two decades 
-of experience building and leading critical systems teams at 
-national ISPs (Internet Service Providers). Gregory has developed
-strategic governance and policy supporting real-time network operations
-across hundreds of thousands of devices and millions of subscribers.
 
-Infrastructure strategist. Automation obsessive.
-Relentless about reducing noise and operational flailing.
+Gregory Ross is an infrastructure and systems strategist with over 20 years of
+experience in mission-critical environments, including national ISPs and
+high-scale technical operations.
 
-Designs systems that stay out of their own way; even under pressure.
+He has led the design, deployment, and stabilization of real-time systems
+supporting millions of users, developed governance policy for production
+networks, and managed incident response across security, networking, and
+systems domains.
+
+Gregory specializes in identifying failure patterns, reducing operational
+risk, and designing resilient, maintainable systems.
 
 ---
 
 **Nicole J. Gray**  
-CAMS-certified compliance executive with 20+ years in AML, BSA, OFAC, and FCC
-oversight. Nicole has led remediation efforts, closed regulatory gaps, and
-redesigned governance across banks and fintechs.
+*Principal, Compliance & Regulatory Strategy*  
+*AML/BSA/OFAC, governance strategy, executive guidance*
 
-Nicole outperforms consultants from the big firms - and cleans up after them, too.
+Nicole Gray is a CAMS-certified compliance executive with over 20 years of
+experience in financial crime oversight, including BSA/AML, OFAC, and broader
+regulatory frameworks. She has led enterprise remediation, rewritten governance
+under regulatory pressure, and supported exam prep for both fintechs and traditional banks.
 
-Uses compliance to reduce exposure, tighten posture, and give leadership clear tools
-to navigate risk with confidence.
+She’s known for identifying hidden risk factors and delivering regulatory
+narratives that hold up under scrutiny.
+
+Nicole specializes in bringing structure to chaotic compliance environments
+and helping organizations become resilient, not just reactive.
 
 ---
 
-**Together, we combine technical clarity with regulatory rigor without inflating the headcount.**
+**We won’t make you busy. We'll make sure you’re ready.**

@@ -42,15 +42,14 @@ we reduce risk, improve resilience, and often cut cost in the process.
 Whether you're scaling fast or correcting inherited complexity, we build
 what's missing and fortify what matters.
 
-**Anchor Accord is a strategic advisory partner for the
-moments when the seams start to tear:**
+**Anchor Accord is a Boston-based strategic advisory partner for when the seams start to tear:**
 - Engineering & Compliance attrition is looming.  
 - BSA/AML/OFAC risk is mounting with no decisive owner.  
 - Systems are raising costs instead of reinforcing alignment.
 - You’re burning hours stitching workflows together with spreadsheets.  
 
 We don’t bring a 50-person team.  
-We bring focus, field experience, and clarity.  
+We bring focus, experience, and clarity.  
 
 *Repaired. Rebuilt. Realigned.*
 

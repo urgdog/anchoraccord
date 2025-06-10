@@ -274,3 +274,45 @@ summary::after {
 details[open] summary::after {
   transform: rotate(180deg);
 }
+
+
+
+
+
+.service-block {
+  padding: 2em;
+  margin-bottom: 2em;
+  border-left: 5px solid #555;
+  background: #f0f0f0;
+  border-radius: 6px;
+  box-shadow: 6px 6px 12px rgba(0,0,0,0.12);
+  padding-right: 2.5em;
+}
+
+.service-block.alt {
+  background: #e6f2ff; /* pale blue */
+  border-left-color: #336699;
+}
+
+.service-block.bridge {
+  background: #fef3e7; /* warm beige/orange tone */
+  border-left-color: #cc6600;
+}
+
+.service-block h2 {
+  margin-top: 0;
+  font-size: 1.75em;
+  color: #222;
+}
+
+.service-block h3 {
+  margin-top: 1.5em;
+  font-size: 1.2em;
+  color: #333;
+}
+
+.service-block ul {
+  padding-left: 1.2em;
+  list-style-type: disc;
+  color: #222;
+}
