@@ -13,6 +13,10 @@ We focus on two domains often treated as cost centers: **infrastructure systems*
 they reduce risk, unlock clarity, and stabilize the business beneath the surface.
 
 We help you get there - calmly, pragmatically, and without the usual theatre.
+<aside class="note-block">
+  <strong>What we mean by “systems”:</strong>  
+  Not just apps or servers - but the interconnected people, tools, and decisions that make your work possible. Infrastructure, compliance, automation, judgment. If it interacts, it’s part of the system.
+</aside>
 
 
 <section class="service-block">

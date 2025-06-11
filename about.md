@@ -22,17 +22,14 @@ before things go sideways, and especially if they already have.
 
 ---
 
-**Gregory C. Ross**  
-*Principal, Infrastructure & Systems Strategy*  
-*Technical architecture, automation, risk reduction*
 
-<figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem;">
-  <img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" />
-</figure>
+> <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem;"><img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" /></figure>
+> **Gregory C. Ross**  
+> *Principal, Infrastructure & Systems Strategy*  
+> *Technical architecture, automation, risk reduction*
 
 Gregory Ross is an infrastructure and systems strategist with over 20 years of
-experience in mission-critical environments, including national ISPs and
-high-scale technical operations.
+experience in mission-critical environments, including national ISPs and large-scale technical operations.
 
 He has led the design, deployment, and stabilization of real-time systems
 supporting millions of users, developed governance policy for production
@@ -44,9 +41,9 @@ risk, and designing resilient, maintainable systems.
 
 ---
 
-**Nicole J. Gray**  
-*Principal, Compliance & Regulatory Strategy*  
-*AML/BSA/OFAC, governance strategy, executive guidance*
+> **Nicole J. Gray**  
+> *Principal, Compliance & Regulatory Strategy*  
+> *AML/BSA/OFAC, governance strategy, executive guidance*
 
 Nicole Gray is a CAMS-certified compliance executive with over 20 years of
 experience in financial crime oversight, including BSA/AML, OFAC, and broader
