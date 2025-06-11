@@ -6,22 +6,17 @@ show_cta: True
 
 # About
 
-Anchor Accord is what happens when two senior operators stop waiting for 
-the big firms to get it right.
+Anchor Accord was founded by two senior operators who’ve
+lived the hard side of systems work.
 
-We’ve lived the fallout of broken systems and one-size-fits-all advice - at 2am,
-in front of regulators, and inside brittle infrastructure no one wanted to
-take ownership of. We’ve stabilized chaos, rebuilt what others abandoned,
-and written the frameworks that helped teams stay calm, resilient, and effective.
+We’ve seen what happens when risk is underestimated, when frameworks get forced, and when ownership diffuses under pressure. Between us, we’ve stabilized systems, rebuilt trust, and designed the structures that kept both infrastructure and
+compliance aligned under stress.
 
-We’re not selling triage headcount.  
-We’re not selling slide decks.  
-
-We’re here to bring clarity across technical and regulatory domains -
-before things go sideways, and especially if they already have.
+We’re not here to sell bodies or build optics.
+We’re here to bring clarity across **technical and regulatory domains** - 
+especially when the stakes are rising and certainty is thin.
 
 ---
-
 
 > <figure style="float: right; width: 240px; margin-left: 1rem; margin-bottom: 1rem;"><img src="/assets/img/gcr.jpg" alt="Gregory C. Ross" style="width: 100%; border-radius: 4px; box-shadow: 0 6px 18px rgba(0,0,0,0.4); filter: grayscale(20%) contrast(1.05);" /></figure>
 > **Gregory C. Ross**  
